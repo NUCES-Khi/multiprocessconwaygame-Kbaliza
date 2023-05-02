@@ -2,14 +2,18 @@
 # Assign 02 - Multiprocess Conway Game
 |Name|Id|
 |-|-|
-|Add your name here|kYY-xxxx|
+|Khush Bakht Aliza |k21-4713|
 
 
 ## Intro
-A Template for ConwayGame Multiprocess. This report is part of the assignment you are to complete this report. The headings must remain the same. Remove any other text and add your own. 
+Operating System assignment where we have to implement Conway Game Of Life using filing, shared memory, fork() system calls.
 
 ## Approach
-Breifly explain how did you planned to approach the problem
+Created a file
+Created grid in shared memory
+Stored that grid in file
+Created count_neighbour function to count the neighbour of a cell.
+Created update_cells function to update the cells according to the conway rules
 
 ## Problems Faced
 + use this list to mention the major problems that you faced in completing this assignment.
